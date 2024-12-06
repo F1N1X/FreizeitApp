@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1023507774182",
+    "project_id": "freizeitapp-728de",
+    "storage_bucket": "freizeitapp-728de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023507774182:android:d4b835c2feba9c25489927",
+        "android_client_info": {
+          "package_name": "com.example.freizeit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023507774182-r05es7ouu95jbl3gjljcse8ds9qd6sjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freizeit_app",
+            "certificate_hash": "6720f9ba28ad36310c8978f03ebf9080701bf83a"
+          }
+        },
+        {
+          "client_id": "1023507774182-nii81v87ufsdg86oe2eqecko5br4sadd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgcElIRQDqkgbBZU9nA-h4GYGIqLg7m3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023507774182-nii81v87ufsdg86oe2eqecko5br4sadd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
